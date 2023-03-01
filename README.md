@@ -4,7 +4,7 @@ Backend for the Application where attendance of teachers and students can be tak
 Technologies used:
 -  Spring Boot Web - for creating Rest Api
 -  Spring Security + JWT - for authentication of users
--  JMS - for sending temporary admin authorization OTP
+-  JMS - for sending temporary admin access OTP
 
 Features:
 -  JWT authentication.
